@@ -19,6 +19,7 @@ Leetcode problems and solutions for improving problem solving skills and intervi
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./Top-Interview-Questions/Longest_substring_without_repeating_characters.py) [Java](./Top-Interview-Questions/Longest_substring_without_repeating_characters.java) | O(n) | O(1) | Medium | | Hash Table
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./Top-Interview-Questions/median_of_two_sorted_arrays.py) [Java](./Top-Interview-Questions/median_of_two_sorted_arrays.java) | O(m+n) | O(n) | Hard | | Recursive/Dynamic
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Top-Interview-Questions/Plus_one.py) [Java](./Top-Interview-Questions/Plus_one.java) | O(n) | O(n) | Easy | | Binary
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./Top-Interview-Questions/Roman_to_integer.py) [Java](./Top-Interview-Questions/Roman_to_integer.java) | O(n) | O(1) | Easy | | 
 
 
 
