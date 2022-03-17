@@ -9,6 +9,19 @@ Leetcode problems and solutions for improving problem solving skills and intervi
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](./Algorithms/First_Bad_Version.py) [Java](./Algorithms/First_bad_version.java) | _O(logN)_ | _O(n)_      | Easy         ||Time limit exceeds in few solution 
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./Algorithms/Search_Insert_Position.py) [Java](./Algorithms/Search_Insert_Position.py) | _O(n)_ | _O(1)_      | Easy         ||
 
+
+## Top Interview Questions
+
+|  #  | Title           |  Solution       | Time     |  Space    | Difficulty    | Tag          | Comment |
+|-----|---------------- | --------------- | ---------|   --------| --------------| -------------| --------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Top-Interview-Questions/two_sum.py)  | O(n) | O(n) |Easy | | Brute force, Hash table
+
+
+
+
+
+
+
 [comment]: <> (This is a comment, it will not be included)
 [//]: <> (This is also a comment.)
 [//]: # ( #   |        |                   |                     |                       |              |              |            )
