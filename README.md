@@ -5,4 +5,4 @@ Leetcode problems and solutions for improving problem solving skills and intervi
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Comment | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](.Python/find-common-characters.py) | _O(logN)_ | _O(1)_      | Easy         ||
+704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](.Algorithms/Binary_Search.py) | _O(logN)_ | _O(1)_      | Easy         ||
