@@ -14,7 +14,7 @@ Leetcode problems and solutions for improving problem solving skills and intervi
 
 |  #  | Title           |  Solution       | Time     |  Space    | Difficulty    | Tag          | Comment |
 |-----|---------------- | --------------- | ---------|   --------| --------------| -------------| --------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Top-Interview-Questions/two_sum.py)  | O(n) | O(n) |Easy | | Brute force, Hash table
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Top-Interview-Questions/two_sum.py) [Java] (./Top-Interview-Questions/two_sum.java) | O(n) | O(n) |Easy | | Brute force, Hash table
 
 
 
