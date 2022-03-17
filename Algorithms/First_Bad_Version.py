@@ -39,13 +39,28 @@ class Solution(object):
         l,r = 0, n
         while l <=r:
             m = (l+r)//2
-			# we find the target:
             if isBadVersion(m-1) == False and isBadVersion(m)== True:
                 return m
-			# we didn't find the target, we eleminate the half that the target cannot lie
             else:
                 if isBadVersion(m) == False:
                     l = m +1
                 else:
                     r = m -1
         return -1
+
+############## Different sol ##############################33
+
+# The isBadVersion API is already defined for you.
+# def isBadVersion(version: int) -> bool:
+
+class Solution:
+    def firstBadVersion(self, n: int) -> int:
+        l, u = 1, n
+        while l<=u:
+            mid = l + (u- l)//2
+            if isBadVersion(mid) :
+                u = mid - 1
+                res = mid
+            else:
+                l = mid + 1
+        return res
