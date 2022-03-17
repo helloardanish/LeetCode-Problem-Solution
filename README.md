@@ -14,7 +14,9 @@ Leetcode problems and solutions for improving problem solving skills and intervi
 
 |  #  | Title           |  Solution       | Time     |  Space    | Difficulty    | Tag          | Comment |
 |-----|---------------- | --------------- | ---------|   --------| --------------| -------------| --------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Top-Interview-Questions/two_sum.py) [Java] (./Top-Interview-Questions/two_sum.java) | O(n) | O(n) |Easy | | Brute force, Hash table
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Top-Interview-Questions/two_sum.py) [Java](./Top-Interview-Questions/two_sum.java) | O(n) | O(n) |Easy | | Brute force, Hash table
+| 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./Top-Interview-Questions/add_two_numbers.java) [Java](./Top-Interview-Questions/add_two_numbers.java) | O(max(m,n)) m,n are length of input | O(max(m,n)) | Medium | | Linked list
+
 
 
 
