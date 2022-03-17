@@ -17,8 +17,7 @@ Leetcode problems and solutions for improving problem solving skills and intervi
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Top-Interview-Questions/two_sum.py) [Java](./Top-Interview-Questions/two_sum.java) | O(n) | O(n) |Easy | | Brute force, Hash table
 | 1 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./Top-Interview-Questions/add_two_numbers.py) [Java](./Top-Interview-Questions/add_two_numbers.java) | O(max(m,n)) m,n are length of input | O(max(m,n)) | Medium | | Linked list
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./Top-Interview-Questions/Longest_substring_without_repeating_characters.py) [Java](./Top-Interview-Questions/Longest_substring_without_repeating_characters.java) | O(n) | O(1) | Medium | | Hash Table
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./Top-Interview-Questions/median_of_two_sorted_arrays.py) [Java](./Top-Interview-Questions/median_of_two_sorted_arrays.java
-) | O(m+n) | O(n) | Hard | | Recursive/Dynamic
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./Top-Interview-Questions/median_of_two_sorted_arrays.py) [Java](./Top-Interview-Questions/median_of_two_sorted_arrays.java) | O(m+n) | O(n) | Hard | | Recursive/Dynamic
 
 
 
