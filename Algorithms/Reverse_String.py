@@ -47,6 +47,21 @@ class Solution:
             j-=1
             
             
+################ Using recursion ###################
+
+
+class Solution(object):
+    def reverseString(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        if len(s)<=1:
+            return s
+        n=len(s)
+        return self.reverseString(s[n//2:])+self.reverseString(s[:n//2])
+            
+            
             
 ################ One-liner solution #######################
 
