@@ -10,7 +10,7 @@ Leetcode problems and solutions for improving problem solving skills and intervi
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./Algorithms/Search_Insert_Position.py) [Java](./Algorithms/Search_Insert_Position.py) | _O(n)_ | _O(1)_      | Easy         | Array, Binary Search |
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Algorithms/squares_of_a_sorted_array.py) [Java](./Algorithms/squares_of_a_sorted_array.java) | _O(n)_ | _O(1)_      | Easy         | Array, Two pointers, Sorting | 
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./Algorithms/rotate_array.py) [Java](./Algorithms/rotate_array.java) | _O(n)_ | _O(n)_      | Medium         | Array, Math, Two pointers | 
- 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) |  [Python](./Algorithms/)  [Java](./Algorithms/)  | O(n) | O(1)  | Easy | Array, Two pointers |
+ 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) |  [Python](./Algorithms/move_zeroes.py.py)  [Java](./Algorithms/move_zeroes.py.java)  | O(n) | O(1)  | Easy | Array, Two pointers |
  167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)     |   [Python](./Algorithms/)  [Java](./Algorithms/)   |  | | Medium | Array, Two pointers, Binary Search |
  344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  [Python](./Algorithms/)  [Java](./Algorithms/)    |  |  | Easy | Two pointers |
  557 |  [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)    |  [Python](./Algorithms/)  [Java](./Algorithms/)    |  |  | Easy | Two pointers, String, Recursion |
