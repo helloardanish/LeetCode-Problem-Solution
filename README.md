@@ -8,6 +8,9 @@ Leetcode problems and solutions for improving problem solving skills and intervi
 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./Algorithms/Binary_Search.py) | _O(logN)_ | _O(1)_      | Easy         ||
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](./Algorithms/First_Bad_Version.py) [Java](./Algorithms/First_bad_version.java) | _O(logN)_ | _O(n)_      | Easy         ||Time limit exceeds in few solution 
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./Algorithms/Search_Insert_Position.py) [Java](./Algorithms/Search_Insert_Position.py) | _O(n)_ | _O(1)_      | Easy         ||
+977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./Algorithms/squares_of_a_sorted_array.py) [Java](./Algorithms/squares_of_a_sorted_array.java) | _O(n)_ | _O(1)_      | Easy         || Two pointers
+189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./Algorithms/rotate_array.py) [Java](./Algorithms/rotate_array.java) | _O(n)_ | _O(n)_      | Medium         || Two pointers
+
 
 
 ## Top Interview Questions
