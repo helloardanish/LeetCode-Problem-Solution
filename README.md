@@ -33,7 +33,7 @@ Leetcode problems and solutions for improving problem solving skills and intervi
  198 |   [House Robber](https://leetcode.com/problems/house-robber/)   |  [Python](./Algorithms/House_Robber.py)  [Java](./Algorithms/House_Robber.java)   | O(n) | O(1) | Medium | Array, Dynamic Programming |
  120 |   [Triangle](https://leetcode.com/problems/triangle/)   |  [Python](./Algorithms/Triangle.py)  [Java](./Algorithms/Triangle.java)   | O(n^2) | O(1) | Medium | Array, Dynamic Programming |
  231 |   [Power of Two](https://leetcode.com/problems/power-of-two/)   |  [Python](./Algorithms/Power_of_Two.py)  [Java](./Algorithms/Power_of_Two.java)   | O(1) | O(1) | Easy | Math, Bit Manipulation, Recursion |
- 191 |   [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)   |  |  | Easy | Bit Manipulation |
+ 191 |   [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)   |  [Python](./Algorithms/Number_of_1_Bits.py)  [Java](./Algorithms/Number_of_1_Bits.java)   | O(log2n) | O(1) | Easy | Bit Manipulation |
  190 |   [Reverse Bits](https://leetcode.com/problems/reverse-bits/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)   |  |  | Easy | Divide and Conquer, Bit Manipulation |
  136 |   [Single Number](https://leetcode.com/problems/single-number/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)   |  |  | Easy | Array, Bit Manipulation |  
 
