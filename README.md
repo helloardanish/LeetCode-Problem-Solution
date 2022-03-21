@@ -28,7 +28,7 @@ Leetcode problems and solutions for improving problem solving skills and intervi
  206 |   [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)   |  [Python](./Algorithms/Reverse_Linked_List.py)  [Java](./Algorithms/Reverse_Linked_List.java)    | O(n) | O(1) | Easy | Linked List, Recursion |
  77 |   [Combinations](https://leetcode.com/problems/combinations/)   |  [Python](./Algorithms/Combinations.py)  [Java](./Algorithms/Combinations.java)    | O(2 * K * C(N, K)) | O(k) | Medium | Array, Backtracking |
  46 |   [Permutations](https://leetcode.com/problems/permutations/)   |  [Python](./Algorithms/Permutations.py)  [Java](./Algorithms/Permutations.java)   | O(n!) | O(n!) | Medium | Array, Backtracking |
- 784 |   [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)   |  |  | Medium | String, Backtracking |
+ 784 |   [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)   |  [Python](./Algorithms/Letter_Case_Permutation.py)  [Java](./Algorithms/Letter_Case_Permutation.java)   | O(2^n) | O(n) | Medium | String, Backtracking |
  70 |   [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)   |  |  | Easy | Math, Dynamic Programming |
  198 |   [House Robber](https://leetcode.com/problems/house-robber/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)   |  |  | Medium | Array, Dynamic Programming |
  120 |   [Triangle](https://leetcode.com/problems/triangle/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)   |  |  | Medium | Array, Dynamic Programming |
