@@ -29,8 +29,8 @@ Leetcode problems and solutions for improving problem solving skills and intervi
  77 |   [Combinations](https://leetcode.com/problems/combinations/)   |  [Python](./Algorithms/Combinations.py)  [Java](./Algorithms/Combinations.java)    | O(2 * K * C(N, K)) | O(k) | Medium | Array, Backtracking |
  46 |   [Permutations](https://leetcode.com/problems/permutations/)   |  [Python](./Algorithms/Permutations.py)  [Java](./Algorithms/Permutations.java)   | O(n!) | O(n!) | Medium | Array, Backtracking |
  784 |   [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)   |  [Python](./Algorithms/Letter_Case_Permutation.py)  [Java](./Algorithms/Letter_Case_Permutation.java)   | O(2^n) | O(n) | Medium | String, Backtracking |
- 70 |   [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)   |  |  | Easy | Math, Dynamic Programming |
- 198 |   [House Robber](https://leetcode.com/problems/house-robber/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)   |  |  | Medium | Array, Dynamic Programming |
+ 70 |   [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)   |  [Python](./Algorithms/Climbing_Stairs.py)  [Java](./Algorithms/Climbing_Stairs.java)   | O(logn)/O(n) | O(1) | Easy | Math, Dynamic Programming |
+ 198 |   [House Robber](https://leetcode.com/problems/house-robber/)   |  [Python](./Algorithms/House_Robber.py)  [Java](./Algorithms/House_Robber.java)   | O(n) | O(1) | Medium | Array, Dynamic Programming |
  120 |   [Triangle](https://leetcode.com/problems/triangle/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)   |  |  | Medium | Array, Dynamic Programming |
  231 |   [Power of Two](https://leetcode.com/problems/power-of-two/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)   |  |  | Easy | Math, Bit Manipulation, Recursion |
  191 |   [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)   |  |  | Easy | Bit Manipulation |
