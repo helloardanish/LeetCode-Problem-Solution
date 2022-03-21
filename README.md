@@ -25,7 +25,7 @@ Leetcode problems and solutions for improving problem solving skills and intervi
  542 |   [01 Matrix](https://leetcode.com/problems/01-matrix/)   |  [Python](./Algorithms/Matrix_01.py)  [Java](./Algorithms/Matrix_01.java)    | O(mn) | O(1) | Medium | Array, Dynamic Programming |
  994 |   [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)   |  [Python](./Algorithms/Rotting_Oranges.py)  [Java](./Algorithms/Rotting_Oranges.java)    | O(mn) | O(mn) | Medium | Array, Breadth-First Search, Matrix |
  21 |   [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)   |  [Python](./Algorithms/Merge_Two_Sorted_Lists.py)  [Java](./Algorithms/Merge_Two_Sorted_Lists.java)    | O(n) | O(1) | Easy | Linked List, Recursion |
- 206 |   [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)    |  |  | Easy | Linked List, Recursion |
+ 206 |   [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)   |  [Python](./Algorithms/Reverse_Linked_List.py)  [Java](./Algorithms/Reverse_Linked_List.java)    | O(n) | O(1) | Easy | Linked List, Recursion |
  77 |   [Combinations](https://leetcode.com/problems/combinations/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)    |  |  | Medium | Array, Backtracking |
  46 |   [Permutations](https://leetcode.com/problems/permutations/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)   |  |  | Medium | Array, Backtracking |
  784 |   [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)   |  [Python](./Algorithms/)  [Java](./Algorithms/)   |  |  | Medium | String, Backtracking |
