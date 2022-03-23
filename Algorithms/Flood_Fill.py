@@ -90,15 +90,17 @@ class Solution:
 ############## Minimum liners #####################
 
 
-def floodFill(self, image: List[List[int]], sr: int, sc: int, newColor: int) -> List[List[int]]:
-    """ O(N*M)TS in place """
+class Solution:
+    def floodFill(self, image: List[List[int]], sr: int, sc: int, newColor: int) -> List[List[int]]:
+        """ O(N*M)TS in place """
 
-    def fn(y, x, color):
-        if 0 <= y < len(image) and 0 <= x < len(image[0]) and image[y][x] == color:
-            image[y][x] = newColor
-            fn(y + 1, x, color), fn(y - 1, x, color), fn(y, x + 1, color), fn(y, x - 1, color)
+        def fn(y, x, color):
+            if 0 <= y < len(image) and 0 <= x < len(image[0]) and image[y][x] == color:
+                image[y][x] = newColor
+                fn(y + 1, x, color), fn(y - 1, x, color), fn(y, x + 1, color), fn(y, x - 1, color)
 
-    return (fn(sr, sc, image[sr][sc]) or image) if image[sr][sc] != newColor else image
+        return (fn(sr, sc, image[sr][sc]) or image) if image[sr][sc] != newColor else image
+
 
   
   
